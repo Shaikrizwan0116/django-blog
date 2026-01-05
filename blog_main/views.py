@@ -1,5 +1,7 @@
 from django.shortcuts import render
 from blogs.models import Blog, Category
+from assignements.models import About
+
 
 def home(request):
 
@@ -7,8 +9,16 @@ def home(request):
     posts = Blog.objects.filter(is_featured=False, status='Published')
     # print(posts)
 
+    #Fetch about us
+
+    try:
+        about = About.objects.get()
+    except:
+        about = None
+
     context = {
         'featured_posts': featured_posts,
         'posts': posts,
+        'about': about
     }
     return render(request, 'home.html', context)
