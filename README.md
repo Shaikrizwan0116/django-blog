@@ -12,3 +12,14 @@ A commenting system allows authenticated users to interact with blog posts. The 
 Additional features include template inheritance, context processors, custom 404 error handling, static and media file configuration, and social links integration. The project is version-controlled using Git and follows best practices with regular commits and structured pushes.
 
 Finally, the application is deployment-ready, with a complete deployment checklist and configuration for production environments.
+
+🚀 <b>Projects:</b><br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;📝 <b>Blog Application (Django)</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Full-featured blog web application built using Django<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• User Authentication (Login / Signup)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Create, Edit & Delete Blog Posts<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Responsive UI using Bootstrap<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 
+<a href="https://github.com/Shaikrizwan0116/django-blog" target="_blank"><b>View Project</b></a>
+
