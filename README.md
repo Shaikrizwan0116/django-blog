@@ -13,13 +13,7 @@ Additional features include template inheritance, context processors, custom 404
 
 Finally, the application is deployment-ready, with a complete deployment checklist and configuration for production environments.
 
-🚀 <b>Projects:</b><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 Live Demo: 
+<a href="https://shaikrizwan.pythonanywhere.com/" target="_blank"><b>Visit Site</b></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;📝 <b>Blog Application (Django)</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Full-featured blog web application built using Django<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• User Authentication (Login / Signup)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Create, Edit & Delete Blog Posts<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Responsive UI using Bootstrap<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 
-<a href="https://github.com/Shaikrizwan0116/django-blog" target="_blank"><b>View Project</b></a>
 
